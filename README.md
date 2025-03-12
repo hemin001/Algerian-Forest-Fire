@@ -44,7 +44,7 @@ This project explores the **Algerian Forest Fires Dataset**, which contains weat
 ---
 
 ## 🚀 **Results & Insights**
-- **Ridge and ElasticNet regression provided the best predictions for FWI**
+- **Ridge and Lasso regression provided the best predictions for FWI**
 - **Scaling features improved model accuracy and stability**
 
 ---
